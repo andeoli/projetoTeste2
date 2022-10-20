@@ -6,6 +6,7 @@ public class Principal {
 		
 		System.out.println("Projeto Teste 2");
 		System.out.println("Projeto alterado no GitHub");
+		System.out.println("Projeto alterado no Eclipse");
 
 
 	}
